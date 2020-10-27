@@ -1,0 +1,3 @@
+*.db
+credentials.json
+token.pickle
